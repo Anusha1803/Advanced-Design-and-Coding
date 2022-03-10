@@ -1,0 +1,62 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<meta charset="utf-8">
+<title>Anusha's Portfolio</title>
+<body>
+<ul>
+<li> <a href="#home"class="active">Home</a></li>
+<li><a href="#Mywork">My Work</a></li>
+<li><a href="#contact">Contact</a></li>
+<li><a href="#about">About</a></li>
+</ul><br>
+ <img src="C:\Users\admin\Desktop\Anusha\SEMESTER 4\ADC\HTML\Portfolio\Logo.png" height=5% width=5% class="center"> <br>
+ <h1> Welcome to my <em>Portfolio!</em></h1>
+ <hr>
+ <h2> Hi! I'm Anusha Lakshmipathy &hearts; I've always wanted to work in a creative field. I'm a UI/UX designer based in Bengaluru.</h2><hr>
+ <img src="C:\Users\admin\Desktop\Anusha\SEMESTER 4\ADC\HTML\Portfolio\IMG.jpg" class="picture"><br>
+ <ul class="class1">
+ <p><b>About Me</b></p>
+<li>Hobbies:Drawing,Singing and Dancing</li><br>
+<li>Educational Qualifications:Bachelors in Design</li><br>
+<li>Languages I speak:English,Kannada,Hindi and Tulu</li><br>
+<li>Softwares I am familiar with:Adobe XD,Illustrator,Photoshop,Figma</li><br>
+<li>Coding languages:HTML</li>
+</ul>
+<p style="font-family:"helvetica"><b>My Projects</b></p>
+
+<h4>Click on the image to view</h4>
+<a href="https://www.figma.com/proto/5WF491tabsPbgMBYTD8zZi/Hi-Fi-Wireframe-(iSound)?node-id=2%3A112&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A112">
+<img src="C:\Users\admin\Desktop\Anusha\SEMESTER 4\ADC\HTML\Portfolio\UIposter.png" height=18% width=18%>
+</a>
+<a href="https://www.canva.com/design/DAEv4KOkAgE/84sr3ZPacxv96R4AlOunzA/view?utm_content=DAEv4KOkAgE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
+<img src="C:\Users\admin\Desktop\Anusha\SEMESTER 4\ADC\HTML\Portfolio\hci.png" height=20% width=20%>
+</a>
+<a href="https://www.canva.com/design/DAE2b0uYl-0/Dwh7ThhUSfAHlR4HkveANw/view?utm_content=DAE2b0uYl-0&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
+<img src="C:\Users\admin\Desktop\Anusha\SEMESTER 4\ADC\HTML\Portfolio\heuristic.png" height=20% width=20%>
+</a>
+<a href="https://www.canva.com/design/DAEriXK6Po4/BPMRT-U9Iz7CX6iVx1V8Pw/view?utm_content=DAEriXK6Po4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
+<img src="C:\Users\admin\Desktop\Anusha\SEMESTER 4\ADC\HTML\Portfolio\hci2.png" height=20% width=20%>
+</a>
+<a href="https://www.canva.com/design/DAEyYjtjm5k/t02isAhixSwbiJSsAkmxfQ/view?utm_content=DAEyYjtjm5k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img src="C:\Users\admin\Desktop\Anusha\SEMESTER 4\ADC\HTML\Portfolio\game.png" height=20% width=20%>
+</a>
+<p><b>Compilations</b></p>
+<a href="https://www.canva.com/design/DAEyqx5kMWI/POczMli-D_zpM2O-qtsphA/view?utm_content=DAEyqx5kMWI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
+<ol>
+<li>Graphic design Compilation</li> </a><br>
+<a href="https://www.canva.com/design/DAEymjZtTMY/yO4Q17X2y7KfysTJGz6hjw/view?utm_content=DAEymjZtTMY&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
+<li>UIS Compilation</li> </a><br>
+<a href="https://www.canva.com/design/DAEyY-IF-CI/isXfYCWWAQvzYj8He2FazQ/view?utm_content=DAEyY-IF-CI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
+<li>Game design Compilation</li></ol>
+</a>
+<br>
+<footer>
+<p><b>Contact Me</b></p>
+<ul class="class1">
+<li>Email:anusha.lakshmipathy1803@gmail.com</li><br>
+<li>Mobile:+91 9972915462</li></ul>
+</footer>
+ </body>
+ </html>
